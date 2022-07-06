@@ -7,7 +7,7 @@
  * Return: 1 is greater than zero. 0 is zero or -1 is less than zero
  * using the ASCII standard
  */
-int print_sign(n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
