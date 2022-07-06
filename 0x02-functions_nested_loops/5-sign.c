@@ -5,9 +5,7 @@
  * equal or less than zero
  *
  * @n: The input number as an integer
- * 
- * Return: 1 is greater than zero. 0 is zero or -1 is less than zero
- 
+ * Return: 1 is greater than zero. 0 is zero or -1 is less than zero 
  */
 int print_sign(int n)
 {
