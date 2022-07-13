@@ -6,12 +6,13 @@
  *
  * Return: Always zero
  */
+int main(void)
 {
 	int n;
 
 	n = 402;
 	printf("n=%d\n", n);
-	rest_to_98(&n);
+	reset_to_98(&n);
 	printf("n=%d\n", n);
 	return (0);
 }
